@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Compuwhiz
 
 Sale of refurbished computer parts
@@ -33,3 +34,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+---
+layout: archive
+permalink: /
+title: "Latest Posts"
+---
+
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+>>>>>>> updated site
