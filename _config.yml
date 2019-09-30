@@ -14,7 +14,7 @@ feed:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink:
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
@@ -39,6 +39,8 @@ owner:
 
 include:
   - .htaccess
+  - '_pages'
+
 exclude:
   - "*.less"
   - "*.sublime-project"

@@ -1,4 +1,18 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Home
+  url: /home/
+  excerpt: "Compuwhiz Home page"
+  image:
+
+- title: About Us
+  url:  /about-us/
+
+- title: Products
+  url: /products/
+
+- title: Location
+  url: /location/
+
+- title: Contact Us
+  url: /contact-us/
