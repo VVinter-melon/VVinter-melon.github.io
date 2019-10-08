@@ -7,14 +7,13 @@ title: Contact Us
 <head>
 <style>
 table, th, td, tr {
-	background-color: #eccc68;
 	text-align: center;
 }
-
 </style>
 </head>
 
-<table style="width:60%" style="float:left;">
+
+<table style= "width:25%; float:left">
 	<tr>
 		<th>Email</th>
 	</tr>
@@ -24,8 +23,40 @@ table, th, td, tr {
 
 </table>
 
+<table style= "width:25%; float:left">
+	<tr>
+		<th>Whatsapp</th>
+	</tr>
+	<tr>
+		<td>+65 XXXX XXXX</td>
+	</tr>
 
+</table>
 
+<table style= "width:25%; float:left">
+	<tr>
+		<th>Lazada</th>
+	</tr>
+	<tr>
+		<td><a href="https://www.lazada.sg/shop/daxin2020/?spm=a2o42.pdp.seller.1.3ce77a32mRFXy8&itemId=211073441&channelSource=pdp"> Lazada Store Front </a></td>
+	</tr>
+</table>
+
+<table style= "width:25%; float:left">
+	<tr>
+		<th>Carousell</th>
+	</tr>
+	<tr>
+		<td><a href="-"> Carousell Profile </a></td>
+	</tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1>Where to find us: </h1>
 <hr>

@@ -21,6 +21,8 @@
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/slick/slick-theme.css"/>
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
@@ -29,7 +31,15 @@
 
   </head>
 
-  <body id="js-body">
+<body id="js-body">
+
+    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.1.0/jquery-migrate.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
+
+    
     {% include browser-upgrade.html %}
     {% include header.html %}
 
@@ -38,9 +48,7 @@
       {% include footer.html %}
     </div>
 
-    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.url }}/js/main.js"></script>
 
-  </body>
+</body>
 
 </html>

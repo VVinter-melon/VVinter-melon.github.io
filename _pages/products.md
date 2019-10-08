@@ -1,11 +1,14 @@
 ---
-layout: media
-template: page
+layout: archive
 permalink: /products/
 title: Products
 
 ---
+<hr>
 
-###THIS IS THE PRODUCTS PAGE
+<h1> 
+<h2>Server and parts</h1>
 
-yep yep yep
+<hr>
+
+<h2>Video Cards
