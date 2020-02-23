@@ -63,6 +63,5 @@ table, th, td, tr {
 Compuwhiz IT services<br>
 37 Kallang Pudding Rd<br>
 Tong Lee Building<br>
-Singapore 349315<br>
-<iframe width="800" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=compuwhiz%20IT%20services&key=AIzaSyARnAVh88rFtUaybnTSZqwUj-8OVvOavoA" allowfullscreen></iframe> 
+Singapore 349315<br> 
 <hr>
